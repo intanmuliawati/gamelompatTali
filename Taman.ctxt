@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Taman
+comment1.params=
+comment1.target=Taman()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ getLeaf()
+comment4.params=
+comment4.target=void\ getCoin()
+comment5.params=i
+comment5.target=int\ getCounter(int)
+comment6.params=
+comment6.target=void\ getTouch()
+comment7.params=r
+comment7.target=void\ removeLive(int)
+comment8.params=
+comment8.target=void\ prepare()
+comment8.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=9
